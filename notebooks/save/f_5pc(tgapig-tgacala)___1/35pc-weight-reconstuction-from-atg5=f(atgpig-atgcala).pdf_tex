@@ -1,0 +1,96 @@
+%% Creator: Inkscape inkscape 0.92.3, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file '35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{432bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.66666667)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.16022728,0.04954063){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.27769068,0.04954063){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.39515407,0.04954063){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.51261746,0.04954063){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.63008089,0.04954063){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.74754425,0.04954063){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.86500768,0.04954063){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}3000\end{tabular}}}}%
+    \put(0.51249999,0.01787836){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Time\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.1087963,0.08423063){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−140\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.1087963,0.14081623){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−120\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.1087963,0.19740182){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−100\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.1087963,0.25398738){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−80\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.1087963,0.31057298){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−60\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.1087963,0.36715857){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−40\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.1087963,0.42374415){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−20\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.1087963,0.48032973){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.1087963,0.53691532){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}20\end{tabular}}}}%
+    \put(0.03114149,0.335){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}weight (\%)\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.21064815,0.1429579){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}original\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{35pc-weight-reconstuction-from-atg5=f(atgpig-atgcala).pdf}}%
+    \put(0.21064815,0.10898074){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}reconstructed\end{tabular}}}}%
+    \put(0.5,0.63222656){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Reconstruction of the weight curve\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
