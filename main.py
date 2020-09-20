@@ -5,7 +5,7 @@ import hyperparameter
 from config import Configuration as config
 from utils import load_dataset, select_curves
 
-from model import Model, train, eval
+from model import Model, train  # , eval
 
 
 space = hyperparameter.space

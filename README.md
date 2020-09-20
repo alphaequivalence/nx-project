@@ -55,14 +55,16 @@ Further analysis of mass loss, variation of the dissociation reaction enthalpy, 
 To train the model(s) in the paper, run this command:
 
 ```train
+python main.py --run bayesopt
 ```
 
 
 ## Evaluation
 
-To evaluate my model, run:
+To evaluate the model, run:
 
 ```eval
+python main.py --run evaluation --model ./generated/0.1/bayesOptResults.sav
 ```
 
 ## Results
